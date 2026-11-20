@@ -1,0 +1,46 @@
+﻿# Compilación de .NET
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Resultados de pruebas
+TestResults/
+*.trx
+coverage/
+coverage.*
+
+# Paquetes NuGet generados
+packages/
+*.nupkg
+*.snupkg
+
+# Base de datos local
+*.mdf
+*.ldf
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*~
+~$*
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
